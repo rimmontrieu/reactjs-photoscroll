@@ -1,4 +1,4 @@
-## 3D Carousel Gallery
+## React Photo Scroll
 
 This is the source code of React Photo Scroll Gallery
 
